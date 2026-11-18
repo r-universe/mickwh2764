@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "par2circadian"]
+	path = par2circadian
+	url = https://github.com/mickwh2764/par2circadian-r
